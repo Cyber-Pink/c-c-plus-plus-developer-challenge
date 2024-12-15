@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "matrix.h": "c",
+        "page_select_matrix_size.h": "c",
+        "hmi.h": "c",
+        "pages.h": "c",
+        "page_main_menu.h": "c",
+        "string.h": "c",
+        "ncurses.h": "c",
+        "global_error_enum.h": "c",
+        "page_custom_dimensions.h": "c",
+        "ctype.h": "c",
+        "global_defines_enum.h": "c",
+        "typeinfo": "c",
+        "page_perform_operation.h": "c"
+    }
+}

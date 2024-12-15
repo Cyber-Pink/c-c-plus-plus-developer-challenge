@@ -1,0 +1,6 @@
+
+--- Log session started at Sun Dec 15 10:35:49 2024
+[2024-12-15 10:36:27] Added matrices (index 0 and 0) -> New matrix 'AddResult1' created with dimensions 2D
+[2024-12-15 10:36:27] Result Matrix Data: 2.00 4.00 10.00 14.00 
+[2024-12-15 10:36:35] determinant calculated. resulting value = -12.000000
+[2024-12-15 10:36:54] determinant calculated. resulting value = -3.000000
